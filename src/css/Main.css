@@ -1,0 +1,46 @@
+
+.skills{
+
+    text-align: center;
+}
+
+
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    columns: 3;
+   
+}
+
+
+
+
+
+.QSY{
+    font-size: 100px;
+}
+
+.DESC{
+        
+    text-align: center;
+    font-size: 40px;
+}
+
+.Descripcion{
+    margin-top: 30px;
+}
+
+
+
+
+.card-img-top{
+    height: 200px;
+    width: 200px;
+    
+}
+
+
+
